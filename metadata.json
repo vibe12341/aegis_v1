@@ -1,0 +1,6 @@
+{
+  "name": "AegisAI - Prompt Injection Scanner",
+  "description": "Tier-1 heuristic and regex prompt injection scanner with FastAPI backend specification and interactive testing playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
